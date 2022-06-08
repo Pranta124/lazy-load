@@ -23,7 +23,7 @@ class UserController extends Controller
 
 
 ```
-#User_blade
+# User_blade
 ```
 
 <!doctype html>
@@ -110,7 +110,7 @@ class UserController extends Controller
         </script>
 
 ```
-#DatabaseSeeder
+# DatabaseSeeder
 ```
 <?php
 
@@ -132,7 +132,7 @@ class DatabaseSeeder extends Seeder
 }
 
 ```
-#Web_php
+# Web_php
 ```
 <?php
 
